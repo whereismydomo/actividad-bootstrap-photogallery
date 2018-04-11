@@ -10,9 +10,7 @@ Deberás crear un **álbum fotográfico** construido con [Bootstrap](http://getb
 
 - Bootstrap 3
 - HTML y CSS
-- Imágenes y logo. Puedes encontrar recursos de logo e imágenes en el siguiente 
-
-Descarga los recursos del [repositorio de la Academia](https://github.com/DesafioLatam), llamado **actividad-bootstrap-photogallery**.
+- Imágenes y logo. Puedes descarga los recursos del [repositorio de la Academia](https://github.com/DesafioLatam), llamado **actividad-bootstrap-photogallery**.
 
 **Ejemplo:**
 

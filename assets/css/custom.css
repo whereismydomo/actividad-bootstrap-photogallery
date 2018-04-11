@@ -1,0 +1,84 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.container-fluid {
+    padding-right: 35px;
+    padding-left: 35px;
+    height: 65px;
+}
+.navbar-default .navbar-collapse {
+    margin-top: 10px;
+}
+
+h1.jumbotron-heading {
+    font-size: 2.5em;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-image: url(images/bg2.jpg);
+    margin-top: -20px;
+}
+
+.panel {
+    border-radius: 0px;
+}
+
+.thumbnail {
+    border-radius: 0px;
+    box-shadow: none;
+    border: 10px solid gainsboro;
+    padding: 0px;
+    border-radius: 25px;
+}
+
+.thumbnail img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.btn.btn-default, .btn.btn-primary {
+    text-transform: uppercase;
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 0px;
+    box-shadow: none;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 20px;
+}
+
+p.lead.text-muted {
+    font-size: 1em;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #ffffff;
+}
+
+div.container p a.btn {
+    background-color: #ffffff;
+    color:#000000;
+}
+
+div.container p a.btn:hover {
+    background-color: #cccccc;
+    color:#ffffff;
+}
+
+.caption p {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+div.panel.panel-default {
+    font-size: 0.8em;
+    text-align: center;
+}

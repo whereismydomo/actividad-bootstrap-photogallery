@@ -23,12 +23,13 @@ span.glyphicon.glyphicon-camera {
     background-color: #ed1650;
     margin: 10px 0px;
 }
+ 
 a.a-header {
     color: #ffffff;
  }
  
 a.a-header:hover {
-    color: #444444;
+    color: #ffffff;
 }
 .btn-header{
 	background-color: #ed1650;

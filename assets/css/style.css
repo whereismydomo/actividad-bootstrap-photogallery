@@ -24,10 +24,14 @@ span.glyphicon.glyphicon-camera {
     margin: 10px 0px;
 }
 a.a-header {
+    color: #ffffff;
+ }
+ 
+a.a-header:hover {
     color: #444444;
 }
 .btn-header{
-	background-color: #ededed;
+	background-color: #ed1650;
 	width: 120px;
 	text-align: center;
 	padding: 4px;
@@ -51,4 +55,8 @@ a{
 
 .jumbotron.bkg-jumbotron {
     margin-top: 50px;
+}
+a:focus, a:hover {
+    color: #ffffff;
+    text-decoration: underline;
 }

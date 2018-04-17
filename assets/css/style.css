@@ -1,0 +1,44 @@
+body{
+ }
+
+.bkg-jumbotron{
+	background-image: url(../images/bg2.jpg);
+	width: 100%;
+}
+a.a-nav{
+	color: #444444 !important;
+}
+.titulo-header{
+	color: white;
+	text-align: center;
+}
+.sub-header{
+	color: white;
+	text-align: center;
+}
+span.glyphicon.glyphicon-camera {
+    color: #444444;
+}
+.btn{
+	width: 100px;
+    background-color: #ed1650;
+    color: purple;
+}
+.btn-header{
+	background-color: #ededed;
+	width: 120px;
+	text-align: center;
+	padding: 4px;
+	border-radius: 2px;
+}
+a{
+	color: white !important;
+}
+
+.center {
+    text-align: center;
+}
+.footer{
+	font-size: 12px !important;
+	text-align: center;
+}

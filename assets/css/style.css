@@ -23,6 +23,9 @@ span.glyphicon.glyphicon-camera {
     background-color: #ed1650;
     color: purple;
 }
+a.a-header {
+    color: #444444;
+}
 .btn-header{
 	background-color: #ededed;
 	width: 120px;

@@ -6,7 +6,7 @@ body{
 	width: 100%;
 }
 a.a-nav{
-	color: #444444 !important;
+	color: #444444;
 }
 .titulo-header{
 	color: white;
@@ -32,13 +32,11 @@ span.glyphicon.glyphicon-camera {
 	border-radius: 2px;
 }
 a{
-	color: white !important;
+	color: white;
 }
 
 .center {
     text-align: center;
 }
-.footer{
-	font-size: 12px !important;
-	text-align: center;
-}
+ 
+

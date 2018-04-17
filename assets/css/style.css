@@ -48,3 +48,7 @@ a{
 .icono-camera{
 	font-size: 54px;
 }
+
+.jumbotron.bkg-jumbotron {
+    margin-top: 50px;
+}
